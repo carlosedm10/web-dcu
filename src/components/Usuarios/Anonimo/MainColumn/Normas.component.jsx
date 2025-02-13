@@ -1,6 +1,6 @@
 import Header from "../../../UI/Header.component";
 import NormativaTable from "../../../UI/NormativaTable.component";
-
+import React from "react";
 const normasESO = [
   {
     idx: 1,

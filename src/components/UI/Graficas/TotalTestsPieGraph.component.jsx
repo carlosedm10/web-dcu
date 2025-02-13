@@ -1,5 +1,5 @@
 import GraficoTotalTestsCompletados from '../../../assets/media/graficas/totalTestsCompletados.svg';
-
+import React from "react";
 const notasTests = [
 	{
 		css: "h-2 w-2 rounded-full bg-slate-800",

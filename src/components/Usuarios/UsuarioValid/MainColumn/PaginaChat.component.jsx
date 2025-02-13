@@ -1,6 +1,6 @@
 import Chat from '../../../UI/Chat.component';
 import Header from '../../../UI/Header.component';
-
+import React from 'react';
 
 const PaginaChat = () => {
 	return (

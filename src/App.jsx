@@ -17,7 +17,7 @@ import Horario from './components/Usuarios/UsuarioValid/MainColumn/Horario.compo
 import Dashboard from './components/Usuarios/UsuarioValid/MainColumn/Dashboard.component';
 import PaginaChat from './components/Usuarios/UsuarioValid/MainColumn/PaginaChat.component';
 import NotaAsignatura from './components/Usuarios/UsuarioValid/MainColumn/NotaAsignatura.component';
-
+import React from 'react';
 
 const App = () => {
   const { currentUser } = useContext(UserContext);

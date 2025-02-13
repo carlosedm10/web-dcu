@@ -5,7 +5,7 @@ import AprovatLogin from '../../assets/media/mano.jpg';
 import ErrorModal from '../../components/UI/ErrorModal.component';
 
 
-
+import React from "react";
 
 const defaultFormFields = {
 	usuario: '',

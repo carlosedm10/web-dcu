@@ -1,3 +1,4 @@
+import React from 'react';
 import Building from "../../../assets/media/buildingContacto.svg";
 import PinMapa from "../../../assets/media/pinMapa.svg";
 

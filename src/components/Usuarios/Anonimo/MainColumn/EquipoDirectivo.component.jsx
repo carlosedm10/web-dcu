@@ -1,3 +1,4 @@
+import React from 'react';
 import Header from "../../../UI/Header.component";
 import SearchBar from "../../../UI/SearchBar.component";
 import EquipoCard from "../../../UI/Cards/EquipoCard.component";

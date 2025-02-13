@@ -1,3 +1,4 @@
+import React from "react";
 import Header from "../../../UI/Header.component";
 import Mapa from "../../../../assets/media/mapaContacto.svg";
 import ContactBuildingCard from "../../../UI/Cards/ContactBuildingCard";

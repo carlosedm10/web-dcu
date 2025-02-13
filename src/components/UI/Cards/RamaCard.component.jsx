@@ -1,5 +1,5 @@
 import Star from '../../../assets/media/Star.svg';
-
+import React from "react";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')

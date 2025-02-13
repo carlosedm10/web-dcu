@@ -1,4 +1,4 @@
-
+import React from 'react';
 const AsignaturaNotasTests = ( { infoCard } ) => {
 	const { titulo, grafica } = infoCard;
 

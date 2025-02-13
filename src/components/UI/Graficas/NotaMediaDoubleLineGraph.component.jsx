@@ -1,3 +1,4 @@
+import React from 'react';
 import GraficoNotaMedia from '../../../assets/media/graficas/notaMedia.svg';
 import EllipsisIcon from '../../../assets/media/EllipsisIcon.svg';
 

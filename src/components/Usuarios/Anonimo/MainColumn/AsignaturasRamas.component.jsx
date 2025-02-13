@@ -17,6 +17,8 @@ import LetrasArtes1 from "../../../../assets/media/LetrasArtes1.svg";
 import LetrasArtes2 from "../../../../assets/media/LetrasArtes2.svg";
 import CienciasIngenieria1 from "../../../../assets/media/CienciasIngenieria1.svg";
 import CienciasIngenieria2 from "../../../../assets/media/CienciasIngenieria2.svg";
+import React from "react";
+
 
 
 

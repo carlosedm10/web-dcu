@@ -1,5 +1,5 @@
 import Overlay from '../../UI/Overlay.component';
-
+import React from 'react';
 
 
 const Rightbar = () => {

@@ -1,4 +1,4 @@
-
+import React from 'react';
 const SearchBar = () => {
 	return (
 		<div className="relative cursor-not-allowed">

@@ -1,4 +1,4 @@
-
+import React from 'react';
 
 const StackedAvatars = (props) => {
 	const { personas } = props;

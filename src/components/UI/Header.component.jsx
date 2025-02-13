@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import { RightbarContext } from '../../contexts/rightbar.context'; 
-
+import React from 'react';
 import Breadcrumb from './Breadcrumb.component';
 import SolIcon from '../../assets/media/SolIcon.svg';
 import RightbarIcon from '../../assets/media/RightbarIcon.svg';

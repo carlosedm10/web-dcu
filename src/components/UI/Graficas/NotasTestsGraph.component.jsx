@@ -1,5 +1,5 @@
 import GraficoNotasTests from '../../../assets/media/graficas/notasTests.svg';
-
+import React from "react";
 const tests = [
 	"Linux",
 	"Mac",
